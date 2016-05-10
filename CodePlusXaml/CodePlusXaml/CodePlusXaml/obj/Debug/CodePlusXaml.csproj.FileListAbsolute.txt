@@ -1,0 +1,11 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\bin\Debug\CodePlusXaml.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\bin\Debug\CodePlusXaml.pdb
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\obj\Debug\CodePlusXaml.csprojResolveAssemblyReference.cache
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\obj\Debug\CodePlusXaml.CodePlusXamlPage.xaml.g.cs
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\obj\Debug\CodePlusXaml.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\obj\Debug\CodePlusXaml.pdb

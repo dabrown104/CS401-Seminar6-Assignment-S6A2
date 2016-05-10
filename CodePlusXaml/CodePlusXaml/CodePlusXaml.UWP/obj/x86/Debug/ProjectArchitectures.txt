@@ -1,0 +1,2 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml.UWP\CodePlusXaml.UWP.csproj;x86
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar6-Assignment-S6A2\CodePlusXaml\CodePlusXaml\CodePlusXaml\CodePlusXaml.csproj;neutral
